@@ -139,7 +139,7 @@
                     <div class="row gx-1">
                         <div class="col-xl-5 col-lg-5 col-md-5">
                             <div class="team-wcu-image mt-50">
-                                <img src="images/team/team-page-shape-img.png" alt="">
+                                <img src="images\portfolio\Our portfolio.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-xl-7 col-lg-7 col-md-7">
@@ -213,8 +213,8 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-4 d-flex justify-content-center align-items-center">
                         <div class=" wuc-area-side-img about-area-side-img p-relative">
-                            <img src="images/about/h2-side-bg-img.png" alt="">
-                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                            <img src="images\portfolio\Web Development Projects.png" alt="">
+                            
                         </div>
                     </div>
                 </div>
@@ -309,8 +309,8 @@
                 <div class="row ">
                     <div class="col-xl-4 col-lg-4 col-md-4 d-flex justify-content-center align-items-center">
                         <div class=" wuc-area-side-img about-area-side-img p-relative">
-                            <img src="images/about/h2-side-bg-img.png" alt="">
-                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                            <img src="images\portfolio\Mobile App Development Projects.png" alt="">
+                           
                         </div>
                     </div>
                     <div class="col-xl-8">
@@ -438,8 +438,8 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-4 d-flex justify-content-center align-items-center">
                         <div class=" wuc-area-side-img about-area-side-img p-relative">
-                            <img src="images/about/h2-side-bg-img.png" alt="">
-                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                            <img src="images\portfolio\Digital Marketing Campaigns.png" alt="">
+                          
                         </div>
                     </div>
                 </div>

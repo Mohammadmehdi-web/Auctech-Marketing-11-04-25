@@ -128,7 +128,7 @@
                         <div class="service-details-wcu-wrapper">
                             <div class="service-details-wcu-content">
                                 <div class="service-details-wuc-img tilt-zoom">
-                                    <img src="images/services/service-detalis-page-img.png" alt="">
+                                    <img src="images\services\e-commerce\Smart Solutions for Modern Online Retail.jpg" alt="">
                                 </div>
                             </div>
                             <div class="service-details-wcu-title"
@@ -293,8 +293,8 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-4">
                         <div class=" wuc-area-side-img about-area-side-img p-relative">
-                            <img src="images/about/h2-side-bg-img.png" alt="">
-                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                            <img src=" images\services\e-commerce\Multi-Vendor Platforms.png" alt="">
+                            
                         </div>
                     </div>
                 </div>

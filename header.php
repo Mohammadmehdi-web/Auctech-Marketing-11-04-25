@@ -47,7 +47,7 @@ p {
             <div class="row align-items-center gx-0">
                 <div class="col-5 col-xl-2 col-lg-3 col-md-4 p-0">
                     <div class="header-area-image style-2 ml-100">
-                        <a href="https://auctechmarketing.com/"><img src="images/logo/logo.png" alt="logo"></a>
+                        <a href=""><img src="images/logo/logo.png" alt="logo"></a>
                     </div>
                 </div>
                 <div class="col-7 col-xl-10 col-lg-9 col-md-8">
@@ -55,52 +55,52 @@ p {
                         class="header-area-menu style-2 d-flex justify-content-end  d-xl-flex d-lg-flex  d-md-flex align-items-center justify-content-xl-between justify-content-lg-between justify-content-md-end   p-relative z-index-11">
                         <nav>
                             <ul class="main-menu  d-xl-flex d-lg-flex justify-content-center align-items-center">
-                                <li class="scroll-effect"><a href="https://auctechmarketing.com/">Home</a></li>
+                                <li class="scroll-effect"><a href="index.php">Home</a></li>
                                 <!--<li class="scroll-effect"><a href="marcom-lab.php">About Us</a></li>-->
                                 <li class="scroll-effect"><a class="plus-icon" href="#">About</a>
                                     <ul class="sub-menu">
-                                        <li><a href="https://auctechmarketing.com/about-us.php">About Us</a></li>
+                                        <li><a href="about-us.php">About Us</a></li>
                                         <!-- <li><a href="#">Vision & Mission</a></li>
                                         <li><a href="#">Core Values</a></li>
                                         <li><a href="#">History of Auctech</a></li>
                                          <li><a href="#">Key Milestones</a></li>-->
-                                        <li><a href="https://auctechmarketing.com/team.php">Leadership Team</a></li>
-                                        <li><a href="https://auctechmarketing.com/career.php">Career</a></li>
+                                        <li><a href="team.php">Leadership Team</a></li>
+                                        <li><a href="career.php">Career</a></li>
                                     </ul>
                                 </li>
                                 <li class="scroll-effect"><a class="plus-icon" href="#">Services</a>
                                     <ul class="sub-menu">
-                                        <li><a href="https://auctechmarketing.com/branding-digital-pr-consulting.php">Branding & Digital PR Consulting</a></li>
-                                        <li><a href="https://auctechmarketing.com/digital-marketing-consulting.php">Digital Marketing Consulting</a></li>
-                                        <li><a href="https://auctechmarketing.com/social-media-marketing.php">Social Media Marketing (SMM)</a></li>
-                                        <li><a href="https://auctechmarketing.com/search-engine-marketing.php">Search Engine Marketing (SEM)</a></li>
-                                        <li><a href="https://auctechmarketing.com/seo-services.php">SEO Services</a></li>
-                                        <li><a href="https://auctechmarketing.com/pay-per-clicks-ervices.php">Pay-Per-Click Services (PPC)</a></li>
-                                        <li><a href="https://auctechmarketing.com/website-development.php">Website Development</a></li>
-                                        <li><a href="https://auctechmarketing.com/mobile-app-development.php">Mobile App Development</a></li>
-                                        <li><a href="https://auctechmarketing.com/e-commerce-solutions.php">E-commerce Solutions</a></li>
+                                        <li><a href="branding-digital-pr-consulting.php">Branding & Digital PR Consulting</a></li>
+                                        <li><a href="digital-marketing-consulting.php">Digital Marketing Consulting</a></li>
+                                        <li><a href="social-media-marketing.php">Social Media Marketing (SMM)</a></li>
+                                        <li><a href="search-engine-marketing.php">Search Engine Marketing (SEM)</a></li>
+                                        <li><a href="seo-services.php">SEO Services</a></li>
+                                        <li><a href="pay-per-clicks-ervices.php">Pay-Per-Click Services (PPC)</a></li>
+                                        <li><a href="website-development.php">Website Development</a></li>
+                                        <li><a href="mobile-app-development.php">Mobile App Development</a></li>
+                                        <li><a href="e-commerce-solutions.php">E-commerce Solutions</a></li>
                                     </ul>
                                 </li>
                                 <li class="scroll-effect"><a class="plus-icon" href="#">Solutions</a>
                                     <ul class="sub-menu">
-                                        <li><a href="https://auctechmarketing.com/wealth-builder-crm.php">Wealth Builder CRM</a></li>
-                                        <li><a href="https://auctechmarketing.com/auctech-realpro.php">Auctech RealPro</a></li>
-                                        <li><a href="https://auctechmarketing.com/sales-promotions.php">Sales Promotions</a></li>
-                                        <li><a href="https://auctechmarketing.com/loyalty-programs.php">Loyalty Programs</a></li>
-                                        <li><a href="https://auctechmarketing.com/employee-engagement-and-rewards.php">Employee Engagement &
+                                        <li><a href="wealth-builder-crm.php">Wealth Builder CRM</a></li>
+                                        <li><a href="auctech-realpro.php">Auctech RealPro</a></li>
+                                        <li><a href="sales-promotions.php">Sales Promotions</a></li>
+                                        <li><a href="loyalty-programs.php">Loyalty Programs</a></li>
+                                        <li><a href="employee-engagement-and-rewards.php">Employee Engagement &
                                                 Rewards</a></li>
-                                        <li><a href="https://auctechmarketing.com/channel-loyalty-programs.php">Channel Loyalty Programs</a></li>
+                                        <li><a href="channel-loyalty-programs.php">Channel Loyalty Programs</a></li>
                                     </ul>
                                 </li>
                                 <li class="scroll-effect"><a href="portfolio.php">Portfolio</a></li>
                                 <!-- <li class="scroll-effect"><a href="partners.php">Partners</a></li>
                                 <li class="scroll-effect"><a href="#">Experts & Scientist</a></li>-->
-                                <li class="scroll-effect"><a href="https://auctechmarketing.com/case-study.php">Case Studies</a></li>
-                                <li class="scroll-effect"><a href="https://auctechmarketing.com/blogs.php">Blogs</a></li>
+                                <li class="scroll-effect"><a href="case-study.php">Case Studies</a></li>
+                                <li class="scroll-effect"><a href="blogs.php">Blogs</a></li>
                             </ul>
                         </nav>
                         <div class="header-area-touch-btn mr-157">
-                            <a href="https://auctechmarketing.com/contact.php">Contact Us</a>
+                            <a href="contact.php">Contact Us</a>
                         </div>
                         <div id="toggle-button">
                             <a href="#"><i class="fa-solid fa-bars"></i></a>
@@ -120,16 +120,16 @@ p {
                     </div>
                     <nav>
                         <ul class="dropdown">
-                            <li><a href="https://auctechmarketing.com/">Home</a></li>
+                            <li><a href="">Home</a></li>
                             <li><a href="#">About</a>
                                 <div class="dropdown-btn">
                                     <button class="dropdown-toggle-btn width-100" onclick="toggleList(1)"><i
                                             class="fa-solid fa-plus"></i></button>
                                 </div>
                                 <ul id="dropdown-toggle-menu-1" class=" hidden-list">
-                                    <li><a href="https://auctechmarketing.com/about-us.php">About Us</a></li>
-                                    <li><a href="https://auctechmarketing.com/team.php">Leadership Team</a></li>
-                                    <li><a href="https://auctechmarketing.com/career.php">Career</a></li>
+                                    <li><a href="about-us.php">About Us</a></li>
+                                    <li><a href="team.php">Leadership Team</a></li>
+                                    <li><a href="career.php">Career</a></li>
                                 </ul>
                             </li>
                             <li><a href="#">Services</a>
@@ -138,15 +138,15 @@ p {
                                             class="fa-solid fa-plus"></i></button>
                                 </div>
                                 <ul id="dropdown-toggle-menu-2" class=" hidden-list">
-                                    <li><a href="https://auctechmarketing.com/branding-digital-pr-consulting.php">Branding & Digital PR Consulting</a></li>
-                                        <li><a href="https://auctechmarketing.com/digital-marketing-consulting.php">Digital Marketing Consulting</a></li>
-                                        <li><a href="https://auctechmarketing.com/social-media-marketing.php">Social Media Marketing (SMM)</a></li>
-                                        <li><a href="https://auctechmarketing.com/search-engine-marketing.php">Search Engine Marketing (SEM)</a></li>
-                                        <li><a href="https://auctechmarketing.com/seo-services.php">SEO Services</a></li>
-                                        <li><a href="https://auctechmarketing.com/pay-per-clicks-ervices.php">Pay-Per-Click Services (PPC)</a></li>
-                                        <li><a href="https://auctechmarketing.com/website-development.php">Website Development</a></li>
-                                        <li><a href="https://auctechmarketing.com/mobile-app-development.php">Mobile App Development</a></li>
-                                        <li><a href="https://auctechmarketing.com/e-commerce-solutions.php">E-commerce Solutions</a></li>
+                                    <li><a href="branding-digital-pr-consulting.php">Branding & Digital PR Consulting</a></li>
+                                        <li><a href="digital-marketing-consulting.php">Digital Marketing Consulting</a></li>
+                                        <li><a href="social-media-marketing.php">Social Media Marketing (SMM)</a></li>
+                                        <li><a href="search-engine-marketing.php">Search Engine Marketing (SEM)</a></li>
+                                        <li><a href="seo-services.php">SEO Services</a></li>
+                                        <li><a href="pay-per-clicks-ervices.php">Pay-Per-Click Services (PPC)</a></li>
+                                        <li><a href="website-development.php">Website Development</a></li>
+                                        <li><a href="mobile-app-development.php">Mobile App Development</a></li>
+                                        <li><a href="e-commerce-solutions.php">E-commerce Solutions</a></li>
                                 </ul>
                             </li>
                             <li><a href="#">Solutions</a>
@@ -156,18 +156,18 @@ p {
                                 </div>
                                 <ul id="dropdown-toggle-menu-3" class=" hidden-list">
                                     
-                                    <li><a href="https://auctechmarketing.com/wealth-builder-crm.php">Wealth Builder CRM</a></li>
-                                    <li><a href="https://auctechmarketing.com/auctech-realpro.php">Auctech RealPro</a></li>
-                                    <li><a href="https://auctechmarketing.com/sales-promotions.php">Sales Promotions</a></li>
-                                    <li><a href="https://auctechmarketing.com/loyalty-programs.php">Loyalty Programs</a></li>
-                                    <li><a href="https://auctechmarketing.com/employee-engagement-and-rewards.php">Employee Engagement & Rewards</a>
+                                    <li><a href="wealth-builder-crm.php">Wealth Builder CRM</a></li>
+                                    <li><a href="auctech-realpro.php">Auctech RealPro</a></li>
+                                    <li><a href="sales-promotions.php">Sales Promotions</a></li>
+                                    <li><a href="loyalty-programs.php">Loyalty Programs</a></li>
+                                    <li><a href="employee-engagement-and-rewards.php">Employee Engagement & Rewards</a>
                                     </li>
-                                    <li><a href="https://auctechmarketing.com/channel-loyalty-programs.php">Channel Loyalty Programs</a></li>
+                                    <li><a href="channel-loyalty-programs.php">Channel Loyalty Programs</a></li>
                                 </ul>
                             </li>
                             <li><a href="portfolio.php">Portfolio</a></li>
-                            <li ><a href="https://auctechmarketing.com/case-study.php">Case Studies</a></li>
-                            <li><a href="https://auctechmarketing.com/blogs.php">Blogs</a></li>
+                            <li ><a href="case-study.php">Case Studies</a></li>
+                            <li><a href="blogs.php">Blogs</a></li>
                         </ul>
                     </nav>
                     <div class="toggle-menu-contact">

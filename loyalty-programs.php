@@ -145,8 +145,8 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-4">
                         <div class="about-area-side-img p-relative">
-                            <img src="images/about/h2-side-bg-img.png" alt="">
-                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                            <img src="images\solutions\loyalty-program\Loyalty that goes beyond sales .png" alt="">
+                            
                         </div>
                     </div>
                 </div>
@@ -160,8 +160,8 @@
                 <div class="row ">
                     <div class="col-xl-4 col-lg-4 col-md-4 d-flex justify-content-center align-items-center">
                         <div class=" wuc-area-side-img about-area-side-img p-relative">
-                            <img src="images/about/h2-side-bg-img.png" alt="">
-                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                            <img src="images\solutions\loyalty-program\Membership Rewards.png" alt="">
+                         
                         </div>
                     </div>
                     <div class="col-xl-8">

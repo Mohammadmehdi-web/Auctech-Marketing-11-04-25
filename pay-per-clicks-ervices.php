@@ -130,7 +130,7 @@
                         <div class="service-details-wcu-wrapper">
                             <div class="service-details-wcu-content">
                                 <div class="service-details-wuc-img tilt-zoom">
-                                    <img src="images/services/service-detalis-page-img.png" alt="">
+                                    <img src="images\services\pay-per-click\Smarter Bidding for Smarter Business Growth.png" alt="">
                                 </div>
                             </div>
                             <div class="service-details-wcu-title"

@@ -573,7 +573,7 @@
         </div>
         <!-- Video-popup-area Start -->
       
-        <div class="video-popup-area pt-270 pb-270" style="background-image: url(images/video-popup/h2-video-popup-bg.png.png); background-position: center; background-repeat: no-repeat; background-size: cover;">
+        <div class="video-popup-area pt-270 pb-270" style="background-image: url('images/home/On Play.gif'); background-position: center; background-repeat: no-repeat; background-size: cover;">
             <div class="video-popup-area-wrapper p-relative z-index-1">
                 <div class="video-popup-area-img d-flex align-items-center justify-content-center">
                     <img class="" src="images/shape/h2-video-popup-shape.png" alt="">
@@ -591,7 +591,7 @@
                 <div class="row gx-1">
                     <div class="col-xl-6 col-lg-5 col-md-6">
                         <div class="testimonial-area-img-content ml-127">
-                            <img src="images/testimonial/home-1-testimonial-img-1.png" alt="">
+                            <img src="images\home\Testimonials 2.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-7">

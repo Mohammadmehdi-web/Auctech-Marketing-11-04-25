@@ -217,7 +217,7 @@ and Excellence</h2>
                         <div
                             class="project-page-heading-part d-flex justify-content-center text-center align-items-center gap-38 mb-8">
                             <h2><span>Core</span>  Values</h2>
-                            <img class="project-page-inner-img" src="images/about/home-1-bg.png" alt="">
+                            <img class="project-page-inner-img" src="images\about\Core Values.jpg" alt="">
                         </div>
                     </div>
 
@@ -339,7 +339,7 @@ and Excellence</h2>
                 <div class="row gx-1">
                     <div class="col-xl-6 col-lg-5 col-md-6">
                         <div class="testimonial-area-img-content ml-127">
-                            <img src="images/testimonial/home-1-testimonial-img-1.png" alt="">
+                            <img src="images\home\Testimonials 2.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-7">

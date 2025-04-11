@@ -171,8 +171,8 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-4 d-flex justify-content-center align-items-center">
                         <div class=" wuc-area-side-img about-area-side-img p-relative">
-                            <img src="images/services/branding/Our Branding Philosophy.jpg" alt="">
-                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                            <img src="images\services\branding\Our Branding Philosophy.png" alt="">
+                           
                         </div>
                     </div>
                 </div>

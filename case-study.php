@@ -88,7 +88,7 @@
                         <div class="service-details-wcu-wrapper">
                             <div class="service-details-wcu-content">
                                 <div class="service-details-wuc-img tilt-zoom">
-                                    <img src="images/services/service-detalis-page-img.png" alt="">
+                                    <img src="images\case-study\Transforming Challenges into Opportunities.png" alt="">
                                 </div>
                             </div>
                             <div class="service-details-wcu-title" style="background-image: url(images/shape/service-details-pag-title-bg.png);">
@@ -152,8 +152,8 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-4">
                         <div class=" wuc-area-side-img about-area-side-img p-relative">
-                            <img src="images/about/h2-side-bg-img.png" alt="">
-                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                            <img src="images\case-study\Case study.png" alt="">
+                          
                         </div>
                     </div>
                 </div>
@@ -167,8 +167,8 @@
                 <div class="row ">
                     <div class="col-xl-4 col-lg-4 col-md-4 d-flex justify-content-center align-items-center">
                         <div class=" wuc-area-side-img about-area-side-img p-relative">
-                            <img src="images/about/h2-side-bg-img.png" alt="">
-                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                            <img src="images\case-study\ROI Analyses.png" alt="">
+                            
                         </div>
                     </div>
                     <div class="col-xl-8">
