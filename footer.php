@@ -1,4 +1,46 @@
+<style>
+  .mobile-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    z-index: 999;
+    background-color: #bfa35c; 
+  }
 
+  .footer-button {
+    flex: 1;
+    text-align: center;
+    padding: 12px 0;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+  }
+
+  .call-btn {
+    background-color:#ffffff;
+    color:#ddb81f;
+  }
+
+  .whatsapp-btn {
+    background-color: #ddb81f;
+  }
+  .scrollup-wrapper {
+    position: fixed;
+    right: 40px;
+    bottom: 60px;
+    z-index: 9999;
+}
+
+
+  @media (min-width: 768px) {
+    .mobile-footer {
+      display: none;
+    }
+  }
+</style>
  <!-- Scroll Up Section Start -->
     <div id="scrollTop" class="scrollup-wrapper">
         <div class="scrollup-btn">
@@ -6,6 +48,8 @@
         </div>
     </div>
     <!-- Scroll Up Section End -->
+
+
 <div class="footer-area footer-bg ">
     <div class="container">
         <div class="row gx-0">
@@ -86,4 +130,16 @@
     <div class="footer-copy-right-info d-flex justify-content-center align-items-center pb-15 ">
         <span>©2025 <a href="#">Auctech MarCom Pvt. Ltd.</a> All Rights Reserved</span>
     </div>
+    <div class="mobile-footer">
+    <a href="tel:+91-6386452123" class="footer-button call-btn" >
+        <img width="24" height="24" src="https://img.icons8.com/ios-filled/50/apple-phone.png" alt="apple-phone"/>
+    +91-6386452123
+    </a>
+    <a href="https://wa.me/916386452123" class="footer-button whatsapp-btn" target="_blank">
+    <img style="margin-right:5px;" width="24" height="24" src="https://img.icons8.com/3d-fluency/whatsapp-logo.png" alt="icon" />
+
+     WHATSAPP US
+    </a>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</div>
 </div>
